@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://github.com/Jaraxxxx">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=3FB950&center=true&vCenter=true&width=620&lines=building+AI+agent+tooling;LLM+observability%2C+evals+and+gateways;shipping+pi+extensions+and+MCP+servers;ex-recsys%2C+ex-CV%2C+quantization+curious" alt="typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3200&pause=1400&color=3FB950&center=true&vCenter=true&width=780&lines=building+pi-usage-dashboard+%E2%80%94+usage+analytics+for+AI+coding+agents;AI+infrastructure+%40+Swiggy+%E2%80%94+LLM+observability%2C+evals+and+gateways;TypeScript%2C+Python+and+Go" alt="typing" />
   </a>
 </div>
 
@@ -12,15 +12,19 @@
 
 ```console
 jay@jaraxxxx ~ % whoami
-ai infra engineer @ Swiggy — building agent tooling, LLM observability & evals
-jay@jaraxxxx ~ % cat focus.txt
-agent harnesses · MCP servers · LLM gateways · evals · quantization
-jay@jaraxxxx ~ % ls prev-life/
-recommender-systems   computer-vision   ann-solvers   spring-boot   dsa
+AI infrastructure engineer @ Swiggy — LLM observability, evals & agent tooling
+jay@jaraxxxx ~ % ls ./current-focus
+pi-usage-dashboard   mcp-servers   llm-gateways   eval-pipelines
 jay@jaraxxxx ~ % ▊
 ```
 
-## ⚡ now building
+## 🚀 featured project
+
+### [pi-usage-dashboard](https://github.com/Jaraxxxx/pi-usage-dashboard)
+
+Live usage analytics for the [pi coding agent](https://github.com/earendil-works/pi) — token burn, session stats and cost visibility rendered directly inside your agent's chat footer. Built with TypeScript; part of a broader suite of pi extensions I maintain.
+
+## 🛠 projects
 
 **the pi ecosystem — extensions for the [pi coding agent](https://github.com/earendil-works/pi):**
 
@@ -83,27 +87,10 @@ jay@jaraxxxx ~ % ▊
   </tr>
 </table>
 
-## 💭 quote of the day
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="dev quote" />
-  </picture>
-</p>
-
 ## 📊 metrics
 
 <table>
   <tr>
-    <td width="50%" align="center">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=Jaraxxxx&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=dark" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=Jaraxxxx&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jaraxxxx&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=dark" alt="github stats" />
-      </picture>
-    </td>
     <td width="50%" align="center">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Jaraxxxx&hide_border=true&theme=dark" />
@@ -111,16 +98,15 @@ jay@jaraxxxx ~ % ▊
         <img src="https://streak-stats.demolab.com?user=Jaraxxxx&hide_border=true&theme=dark" alt="streak" />
       </picture>
     </td>
+    <td width="50%" align="center">
+      <a href="https://leetcode.com/u/jaraxxxx/">
+        <img src="https://leetcode-stats-six.vercel.app/api?username=jaraxxxx" alt="leetcode stats" />
+      </a>
+    </td>
   </tr>
 </table>
 
-<p align="center">
-  <a href="https://leetcode.com/u/jaraxxxx/">
-    <img src="https://leetcode-stats-six.vercel.app/api?username=jaraxxxx" alt="leetcode stats" />
-  </a>
-</p>
-
-## 🐍 snake says hi
+## 📈 contributions
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jaraxxxx/Jaraxxxx/output/github-contribution-grid-snake-dark.svg" />

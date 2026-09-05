@@ -47,3 +47,12 @@ Replace the default README template with a "state of the art" **hybrid** profile
 
 ## Non-goals
 - No trophy shelf, no blog-feed widget, no visitor counter, no Spotify/wakatime.
+
+## v3 rework (2026-09-06, user feedback)
+- **Professional + project-focused** (GitSkins philosophy: portfolio-first, real work forward).
+- Removed `github-readme-stats` card — shared instance quota-dead on live page ("PAT_1" error card). Metrics = streak + LeetCode side by side. Self-hosted deploy (with own PAT) is the known path back if wanted.
+- Removed quote-of-the-day widget (fluff/fragile).
+- Typing SVG lines now lead with flagship project + role (no generic "pi and stuff" phrasing).
+- New **🚀 featured project** spotlight (pi-usage-dashboard) between whoami and projects table; "now building" renamed "🛠 projects"; "snake says hi" renamed "📈 contributions".
+- whoami block made professional: role line + `ls ./current-focus` (flagship first).
+- Trophy + activity-graph still excluded (402 quota on shared instances).

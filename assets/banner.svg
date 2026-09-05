@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300" role="img" aria-labelledby="title desc">
+  <title id="title">Jay Rathod profile banner</title>
+  <desc id="desc">A dark terminal window featuring Jay Rathod's name, areas of expertise, and a shell prompt.</desc>
+
+  <defs>
+    <linearGradient id="nameGradient" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#58a6ff"/>
+      <stop offset="0.12" stop-color="#d2e7ff">
+        <animate attributeName="offset" values="0.12;0.88;0.12" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="1" stop-color="#bc8cff"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0.5" y="0.5" width="899" height="299" rx="16" fill="#0d1117" stroke="#30363d"/>
+  <path d="M1 70.5H899" fill="none" stroke="#30363d"/>
+
+  <g font-family="ui-monospace, Menlo, monospace">
+    <circle cx="28" cy="28" r="7" fill="#ff5f57"/>
+    <circle cx="52" cy="28" r="7" fill="#febc2e"/>
+    <circle cx="76" cy="28" r="7" fill="#28c840"/>
+    <text x="450" y="34" fill="#8b949e" font-size="15" text-anchor="middle">jay@jaraxxxx — ~/profile</text>
+
+    <text x="450" y="151" fill="url(#nameGradient)" font-size="62" font-weight="700" letter-spacing="4" text-anchor="middle">JAY RATHOD</text>
+    <text x="450" y="190" fill="#3fb950" font-size="18" text-anchor="middle">AI agent tooling · LLM infrastructure · evals</text>
+
+    <text x="28" y="267" fill="#8b949e" font-size="16">jay@jaraxxxx ~ % <tspan fill="#c9d1d9">./ship.sh</tspan></text>
+    <rect x="277" y="253" width="9" height="17" rx="1" fill="#c9d1d9">
+      <animate attributeName="opacity" values="1;0;1" keyTimes="0;0.5;1" dur="1s" calcMode="discrete" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>
